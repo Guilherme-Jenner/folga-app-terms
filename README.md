@@ -11,9 +11,8 @@ Páginas estáticas do Folga, publicadas pelo GitHub Pages. Cada tela é um arqu
 
 Sem build: é só HTML e CSS. `.nojekyll` desliga o Jekyll do Pages.
 
-## Antes de publicar
+## Manutenção dos textos
 
-- Trocar `CONTATO@EXEMPLO.COM` (em `termos.html` e `privacidade.html`) pelo e-mail de contato real.
 - Os textos descrevem o app como ele é hoje (dados sensíveis só no aparelho; servidor guarda conta e quais cartões). Se isso mudar no app, atualizar aqui. **Ainda sem revisão jurídica.**
 
 ## Publicar
